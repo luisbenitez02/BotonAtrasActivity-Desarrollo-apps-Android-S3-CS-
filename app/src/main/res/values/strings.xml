@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BotonAtrasActivity</string>
+    <string name="ir_Segundo">Ir a segundo activity</string>
+    <string name="activity_dos">Segunda Actividad</string>
+</resources>
